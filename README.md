@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m currently working on https://github.com/Rolol0ko/DndDieFairnessChecker
+- I’m currently working on using tkinter for guis
 - I’m currently learning python and c#
 - I’m looking for help with python
 - Ask me about anything
